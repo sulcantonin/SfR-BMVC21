@@ -1,5 +1,10 @@
 
+
 # Towards Monocular Shape from Refraction
+A. Sulc (University Konstanz), I. Sato (NII), B. Godluecke (University Konstanz), Tali Treibitz (University Haifa) 
+
+![Teaser](https://raw.githubusercontent.com/sulcantonin/SfR-BMVC21/main/teaser.png)
+
 [Paper (TBD)](TBD) | [Supplementary Material (TBD)](TBD) | [Presentation (TBD)](TBD) |
 
 This website presents data and code for our work presented on [BMVC'21](https://bmvc2021.com/ "BMVC") as an oral presentation. 

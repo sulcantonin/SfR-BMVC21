@@ -5,7 +5,7 @@ A. Sulc (University Konstanz), I. Sato (NII), B. Godluecke (University Konstanz)
 
 ![Teaser](https://raw.githubusercontent.com/sulcantonin/SfR-BMVC21/main/teaser.png)
 
-[Paper (TBD)](TBD) | [Supplementary Material (TBD)](TBD) | [Presentation (TBD)](TBD) |
+[Paper (TBD)](TBD) | [Supplementary Material (TBD)](TBD) | [Presentation PDF (TBD)](TBD) [Presentation (SlideShare - Video)](https://recorder-v3.slideslive.com/?share=54408&s=6d056038-5ccc-4d7f-b14f-562c14aef4e5)|
 
 This website presents data and code for our work presented on [BMVC'21](https://bmvc2021.com/ "BMVC") as an oral presentation. 
 

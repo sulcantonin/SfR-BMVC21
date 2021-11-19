@@ -1,7 +1,7 @@
 
 
 # Towards Monocular Shape from Refraction
-[A. Sulc](https://sulcantonin.github.io) (University Konstanz), I. Sato (NII), B. Godluecke (University Konstanz), Tali Treibitz (University Haifa) 
+[A. Sulc (University Konstanz)](https://sulcantonin.github.io), I. Sato (NII), [B. Godluecke (University Konstanz)](https://www.cvia.uni-konstanz.de/personen/prof-dr-bastian-goldluecke/), [Tali Treibitz (University Haifa)](https://www.viseaon.haifa.ac.il/)
 
 ![Teaser](https://raw.githubusercontent.com/sulcantonin/SfR-BMVC21/main/teaser.png)
 

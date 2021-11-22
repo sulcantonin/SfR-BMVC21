@@ -5,7 +5,7 @@
 
 ![Teaser](https://raw.githubusercontent.com/sulcantonin/SfR-BMVC21/main/teaser.png)
 
-[Paper (TBD)](TBD) | [Supplementary Material (TBD)](TBD) | [Presentation (PDF)](https://github.com/sulcantonin/SfR-BMVC21/blob/main/0195pres.pdf) | [Presentation (SlideShare - Video)](https://recorder-v3.slideslive.com/?share=54408&s=6d056038-5ccc-4d7f-b14f-562c14aef4e5)|
+[Paper](https://www.bmvc2021-virtualconference.com/assets/papers/0195.pdf) | [Supplementary Material](https://www.bmvc2021-virtualconference.com/assets/supp/0195_supp.zip) | [Presentation (PDF)](https://github.com/sulcantonin/SfR-BMVC21/blob/main/0195pres.pdf) | [Presentation (SlideShare - Video)](https://recorder-v3.slideslive.com/?share=54408&s=6d056038-5ccc-4d7f-b14f-562c14aef4e5)|
 
 This website presents data and code for our work presented on [BMVC'21](https://bmvc2021.com/ "BMVC") as an oral presentation. 
 

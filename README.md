@@ -16,7 +16,7 @@ The paper itself presents an optimization approach to estimate a 3D surface stru
 ## Code
 The `code/` contains files with code for our proposed energy. `code/e.m` contains the energy. The `code/point_line_distance.m` an analytic solution that finds the shortest distance between a point and a line, including the closest point on the line. `code/snell.m` contains a function that encode Snell's law. 
 
-During optimisation, it is important to distinguish between *distance* (i.e. a distance $d$ of a point $X$ from camera centre) which can be calculated with `code/dist2pc.m` and *depth* (i.e. $z$ coordinate of a point $X=[x,y,z]^T$) which can be calculated `code/z2pc.m`
+During optimisation, it is important to distinguish between **distance** (i.e. a distance *d* of a point *X* from camera centre) which can be calculated with `code/dist2pc.m` and **depth** (i.e. *z* coordinate of a point *X=[x,y,z]*) which can be calculated `code/z2pc.m`
 
 For optimisation we used the Limited Memory L-BFGS implementation from [here](https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/23245/versions/9/previews/fminlbfgs.m/index.html)
 ## Data

@@ -1,6 +1,6 @@
 % the function transforms the distance to 3d point cloud 
 % https://thousandyardstare.de/blog/generating-depth-images-in-blender-279.html
-function [Z] = dist2Z(dist,x,K)
+function [Z] = z2pc(dist,x,K)
 cx = K(1,3);
 cy = K(2,3);
 fx = K(1,1);
